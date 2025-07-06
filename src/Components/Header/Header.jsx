@@ -26,7 +26,6 @@ function Header() {
         <div className="header-right">
           <ul>
             <li><SearchIcon/></li>
-
             <li><NotificationsNoneIcon/></li>
             <li><AccountBoxIcon/></li>
             <li><ArrowDropDownIcon/></li>
